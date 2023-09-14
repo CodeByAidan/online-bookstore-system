@@ -52,7 +52,7 @@ java Bookstore
 ## Usage
 
 > [!NOTE]
-> For context, see the main class [Bookstore.java](src/bookstore/Bookstore.java), which contains the main method.
+> For context, see the main class [Bookstore.java](online-bookstore-system/src/bookstore/Bookstore.java), which contains the main method.
 
 1. **Adding Books to Inventory:**
 - Login as an admin with the username "admin" and password "admin123".
